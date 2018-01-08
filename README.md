@@ -9,16 +9,24 @@ It includes the following:
 * editorconfig 
 
 ## Clone the repo and run install
-```npm install```
+```
+npm install
+```
 
 ## Start the app in dev mode
-```npm start -s```
+```
+npm start -s
+```
+
 This will run security check and also start the server.
 
 ## Share your work
-```npm run share -s```
+```
+npm run share -s
+```
+
 This will start the app in dev mode and open a localtunnel to share the work with a URL. 
 
 ## Support
-If you have any questions, please contact Michael Rajendran(mailto:mikerajendran@gmail.com)
+If you have any questions, please contact Michael Rajendran at mikerajendran@gmail.com
 
